@@ -1,5 +1,7 @@
 Non-uniformity correction algorithms (DDE algorithms of infrared images are on the way!)
 
+《竖纹噪声去除不引入鬼影》 && 《锅盖噪声去除》
+
 1st. The non-uniformity correction algorithm based on registration is proposed. The experimental results show that when the field of view moves rapidly,the proposed method can remove the striped nonuniformity noise without producing the visible ghost phenomenon.
 
 2nd. The algorithm based on the random number is proposed to remove the spatial low frequency and high-frequency non-uniformity noise in the scene.This method constructs the expectation function from random arrays thus the algorithm has extremely low complexity and can be processed in real time. Experimental results show that compared with other methods, this method can << remove >> spatial low-frequency nonuniformity noise such as <<"pot cover" noise>>.
